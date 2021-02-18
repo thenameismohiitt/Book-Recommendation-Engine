@@ -1,0 +1,49 @@
+.navbar{
+    border-bottom: 3px solid #008ed6;
+}
+
+.input-search{
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    border-bottom: 2px solid #999;
+    transition: all .4s;
+}
+.input-search:focus{
+    background: transparent;
+    box-shadow: none;
+    border-bottom: 2px solid #dc3545;
+}
+
+.search-btn{
+    border-radius: 30%;
+    padding: 5px 16px;
+    transition: all .4s;
+}
+.search-btn:hover{
+    background-color: #eee;
+    transform: translateY(-1px);
+}
+#home-section{
+    background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.9)), url(images/cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .home-inner{
+    padding-top: 150px; 
+}
+#home-section .card-form{
+    opacity: 0.8;
+}
+.read{
+    font-size: 80px;
+     margin-left: 100%;
+}
+.word{
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}

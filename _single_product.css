@@ -1,0 +1,39 @@
+.banner_inner .banner_content .page_link a {
+        font-size: 14px;
+        color: #ffffff;
+        font-family: "Roboto", sans-serif;
+        margin-right: 32px;
+        position: relative; }
+
+.banner_inner .banner_content h2 {
+        color: #ffffff;
+        font-size: 48px;
+        font-family: "Roboto", sans-serif;
+        margin-bottom: 12px;
+        font-weight: 500;
+        margin-top: 120px; 
+}
+.banner_inner .banner_content .page_link a:hover {
+          color: #1641ff; }
+
+.icon{
+    margin-left: 30px;
+    font-size:10px;
+}
+
+.product_image_area{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.s_image{
+    widows: 250px;
+    height: 375px;
+}
+.about{
+    margin-left: 650px;
+    margin-top: -380px;
+}
+.authr{
+   margin-left: 650px;
+    margin-top: -380px;  
+}

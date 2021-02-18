@@ -1,0 +1,27 @@
+.navbar{
+    border-bottom: 3px solid #008ed6;
+}
+
+.input-search{
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    border-bottom: 2px solid #999;
+    transition: all .4s;
+}
+.input-search:focus{
+    background: transparent;
+    box-shadow: none;
+    border-bottom: 2px solid #dc3545;
+}
+
+.search-btn{
+    border-radius: 30%;
+    padding: 5px 16px;
+    transition: all .4s;
+}
+.search-btn:hover{
+    background-color: #eee;
+    transform: translateY(-1px);
+}
+
